@@ -1,4 +1,4 @@
-package com.example.demo.controllers.entity;
+package com.example.demo.entity;
 
 import com.example.demo.repository.PedidoRepository;
 import org.springframework.boot.CommandLineRunner;

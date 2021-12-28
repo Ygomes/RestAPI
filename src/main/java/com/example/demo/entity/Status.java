@@ -1,4 +1,4 @@
-package com.example.demo.controllers.entity;
+package com.example.demo.entity;
 
 public class Status {
     public String status;

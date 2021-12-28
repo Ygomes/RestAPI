@@ -1,7 +1,7 @@
 package com.example.demo.service;
 
-import com.example.demo.controllers.entity.Pedido;
-import com.example.demo.controllers.entity.Status;
+import com.example.demo.entity.Pedido;
+import com.example.demo.entity.Status;
 import com.example.demo.model.ResponseCommand;
 import com.example.demo.repository.PedidoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
